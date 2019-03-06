@@ -7,6 +7,7 @@
 ![](words.PNG)
 3) без стоп-слов
 ![](words2.PNG)
+
 4)n-grams
 ![](123.PNG)
 ![](11.PNG)
